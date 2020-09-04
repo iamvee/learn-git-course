@@ -1,0 +1,4 @@
+line 1 new-file.txt
+line 2 new-file.txt
+line 3 new-file.txt
+
